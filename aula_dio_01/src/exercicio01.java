@@ -19,6 +19,5 @@ public class exercicio01 {
         idade = scanner.nextInt();
 
         System.out.printf("Olá %s, você tem %s anos de idade.", nome, idade);
-
     }
 }
