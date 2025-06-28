@@ -16,8 +16,8 @@
 - [x] Estruturas de Controle em Java
 - [x] Debugging e Tratamento de Exceções em Java
 - [x] Sistema de Validação de Processo Seletivo
-- [ ] Aperfeiçoando Lógica e Pensamento Computacional
-- [ ] Explorando a Sintaxe Java na Prática
+- [x] Aperfeiçoando Lógica e Pensamento Computacional
+- [x] Explorando a Sintaxe Java na Prática
 
 ## ✅ Programação Orientada a Objetos
 - [ ] Abstração com Classes e Encapsulamento
