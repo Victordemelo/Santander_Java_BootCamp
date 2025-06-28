@@ -1,5 +1,7 @@
 # 📘 Bootcampo_Santander – Java e Desenvolvimento
 
+## Este repositório documenta minha jornada de aprendizado em Java, organizada por tópicos e atividades. Cada seção contém exercícios práticos, projetos e desafios que abrangem desde os fundamentos da linguagem até o desenvolvimento de APIs e boas práticas de software.
+
 ## ✅ Princípios de Desenvolvimento de Aplicações Java
 - [x] Introdução à Experiência Santander 2025
 - [x] Introdução ao Java e seu Ambiente de Desenvolvimento
