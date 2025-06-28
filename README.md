@@ -1,1 +1,60 @@
-# Santander_Java_BootCamp
+# 📘 Bootcampo_Santander – Java e Desenvolvimento
+
+## ✅ Princípios de Desenvolvimento de Aplicações Java
+- [x] Introdução à Experiência Santander 2025
+- [x] Introdução ao Java e seu Ambiente de Desenvolvimento
+- [x] Versionamento de Código com Git e GitHub
+- [x] Desafios de Projetos: Crie Um Portfólio Vencedor
+- [x] Contribuindo em um Projeto Open Source no GitHub
+- [x] Live de Back‑End com Java – Santander 2025
+
+## ✅ Sintaxe Básica de Java
+- [x] Fundamentos da Linguagem de Programação Java
+- [x] Simulando uma Conta Bancária via Console
+- [x] Estruturas de Controle em Java
+- [x] Debugging e Tratamento de Exceções em Java
+- [x] Sistema de Validação de Processo Seletivo
+- [ ] Aperfeiçoando Lógica e Pensamento Computacional
+- [ ] Explorando a Sintaxe Java na Prática
+
+## ✅ Programação Orientada a Objetos
+- [ ] Abstração com Classes e Encapsulamento
+- [ ] Herança e Polimorfismo em Java
+- [ ] Interfaces e Lambda em Java
+- [ ] Modelando iPhone com UML
+- [ ] Desafio: Domínio da Programação Orientada a Objetos
+
+## ✅ Coleções e Stream em Java
+- [ ] Conhecendo Collections
+- [ ] Stream API
+- [ ] Banco Digital com OOP
+- [ ] Jogo do Sudoku em Java
+- [ ] Aprimorando Lógica de Programação
+
+## ✅ Desenvolvimento de APIs
+- [ ] Spring Framework com Spring Boot
+- [ ] API REST com Swagger
+- [ ] Segurança com Spring Security
+- [ ] Design Patterns com Java + Spring
+- [ ] Publicação de API na nuvem (Railway)
+- [ ] Estruturando Regras e Processos
+
+## ✅ Boas Práticas de Software
+- [ ] Introdução a Clean Code
+- [ ] Design Patterns em Java
+- [ ] SOLID e Clean Code Avançado
+
+## ✅ Integração com Banco de Dados
+- [ ] Introdução a Banco de Dados
+- [ ] SQL Relacional
+- [ ] MongoDB e NoSQL
+- [ ] JDBC + Persistência
+- [ ] Board de Tarefas com Java
+
+## ✅ Testes e Maven
+- [ ] Maven – Gerenciamento e Build
+- [ ] Introdução a Testes
+- [ ] Testes Unitários com JUnit
+- [ ] Testes com Mockito
+- [ ] Lógica para Apps Escaláveis
+- [ ] Avaliação Bootcamp 2025
