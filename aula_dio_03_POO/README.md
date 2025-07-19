@@ -2,7 +2,7 @@
 
 ## todos os execicios devem ter um menu de interativo para chamar as funções e ter uma opção de sair para finalizar a execução
 
-# Exercício 01
+# Exercício 01 / (Concluído) ✅
 1. Escreva um código onde temos uma conta bancaria que possa realizar as seguintes operações:
     - Consultar saldo
     - consultar cheque especial
@@ -12,18 +12,18 @@
     - Verificar se a conta está usando cheque especial.
 
 Siga as seguintes regras para implementar
-   [x] -> A conta bancária deve ter um limite de cheque especial somado ao saldo da conta;
+   - A conta bancária deve ter um limite de cheque especial somado ao saldo da conta;
 
-   [x] -> O o valor do cheque especial é definido no momento da criação da conta, de acordo com o valor depositado na conta em sua criação;
+   - O o valor do cheque especial é definido no momento da criação da conta, de acordo com o valor depositado na conta em sua criação;
 
-   [x] -> Se o valor depositado na criação da conta for de R$500,00 ou menos o cheque especial deve ser de R$50,00
+   - Se o valor depositado na criação da conta for de R$500,00 ou menos o cheque especial deve ser de R$50,00
 
-   [x] -> Para valores acima de R$500,00 o cheque especial deve ser de 50% do valor depositado;
+   - Para valores acima de R$500,00 o cheque especial deve ser de 50% do valor depositado;
    
-   [x] -> Caso o limite de cheque especial seja usado, assim que possível a conta deve cobrar uma taxa de 20% do valor usado do cheque especial.
+   - Caso o limite de cheque especial seja usado, assim que possível a conta deve cobrar uma taxa de 20% do valor usado do cheque especial.
 
 ---------------------------------------------------------------------------------------------------------------------------
-# Exercício 02
+# Exercício 02 / (Concluído) ✅
 2. Escreva um código onde controlamos as funções de um carro, ele deve ter as seguintes funções:
    - Ligar o carro;
    - Desligar o carro;
