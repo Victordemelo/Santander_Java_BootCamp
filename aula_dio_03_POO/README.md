@@ -51,7 +51,7 @@ Siga as seguintes regras na implementação
    - O carro só pode virar para esquerda/direita se sua velocidade for de no mínimi 1km e no máximo 40km;
 
 ---------------------------------------------------------------------------------------------------------------------------
-# Exercício 03
+# Exercício 03 / (Concluído) ✅
 3. Escreva um código onde temos o controle de banho de um petshop, a maquina de banhos dos pets deve ter as seguintes operações:
    - Dar banho no pet;
    - Abastecer com água;
