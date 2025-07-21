@@ -20,8 +20,8 @@
 - [x] Explorando a Sintaxe Java na Prática
 
 ## ✅ Programação Orientada a Objetos
-- [ ] Abstração com Classes e Encapsulamento
-- [ ] Herança e Polimorfismo em Java
+- [x] Abstração com Classes e Encapsulamento
+- [x] Herança e Polimorfismo em Java
 - [ ] Interfaces e Lambda em Java
 - [ ] Modelando iPhone com UML
 - [ ] Desafio: Domínio da Programação Orientada a Objetos
