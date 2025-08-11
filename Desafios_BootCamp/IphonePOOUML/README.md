@@ -1,4 +1,4 @@
-# ProjetoIphonePOO
+# Projeto Iphone POO
 
 Este projeto foi desenvolvido como exercício prático de Programação Orientada a Objetos (POO) e modelagem UML, simulando as principais funcionalidades apresentadas no lançamento do primeiro iPhone.
 
