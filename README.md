@@ -22,12 +22,12 @@
 ## ✅ Programação Orientada a Objetos
 - [x] Abstração com Classes e Encapsulamento
 - [x] Herança e Polimorfismo em Java
-- [ ] Interfaces e Lambda em Java
-- [ ] Modelando iPhone com UML
-- [ ] Desafio: Domínio da Programação Orientada a Objetos
+- [x] Interfaces e Lambda em Java
+- [x] Modelando iPhone com UML
+- [x] Desafio: Domínio da Programação Orientada a Objetos
 
 ## ✅ Coleções e Stream em Java
-- [ ] Conhecendo Collections
+- [x] Conhecendo Collections
 - [ ] Stream API
 - [ ] Banco Digital com OOP
 - [ ] Jogo do Sudoku em Java
